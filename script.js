@@ -1,0 +1,9 @@
+$("#lim").click(function(){
+    $(".lam").fadeToggle();
+});
+$("#dit").click(function(){
+    $(".dat").slideToggle();
+});
+$("#sim").click(function(){
+    $(".sam").toggle();
+});
